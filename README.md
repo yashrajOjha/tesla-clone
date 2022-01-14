@@ -42,3 +42,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Installing other dependencies
+
+To run the project without any interuption, we are required to add Styled Components, MaterialUI Icons, and React Reveal.
+- ```npm install styled-components```
+- ```npm install @mui/material```
+- ```npm install react-reveal --save```
